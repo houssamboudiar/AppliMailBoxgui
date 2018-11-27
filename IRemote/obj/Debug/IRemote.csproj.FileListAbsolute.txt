@@ -1,0 +1,12 @@
+C:\Users\houss\source\repos\AppliMailBox\IRemote\obj\Debug\IRemote.csprojAssemblyReference.cache
+C:\Users\houss\source\repos\AppliMailBox\IRemote\obj\Debug\IRemote.csproj.CoreCompileInputs.cache
+C:\Users\houss\source\repos\AppliMailBox\IRemote\bin\Debug\IRemote.dll
+C:\Users\houss\source\repos\AppliMailBox\IRemote\bin\Debug\IRemote.pdb
+C:\Users\houss\source\repos\AppliMailBox\IRemote\obj\Debug\IRemote.dll
+C:\Users\houss\source\repos\AppliMailBox\IRemote\obj\Debug\IRemote.pdb
+C:\Users\houss\source\repos\AppliMailBoxgui\IRemote\bin\Debug\IRemote.dll
+C:\Users\houss\source\repos\AppliMailBoxgui\IRemote\bin\Debug\IRemote.pdb
+C:\Users\houss\source\repos\AppliMailBoxgui\IRemote\obj\Debug\IRemote.csprojAssemblyReference.cache
+C:\Users\houss\source\repos\AppliMailBoxgui\IRemote\obj\Debug\IRemote.csproj.CoreCompileInputs.cache
+C:\Users\houss\source\repos\AppliMailBoxgui\IRemote\obj\Debug\IRemote.dll
+C:\Users\houss\source\repos\AppliMailBoxgui\IRemote\obj\Debug\IRemote.pdb
